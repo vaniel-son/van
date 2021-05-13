@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vanswork
-- 👀 I enjoy three things in ife: creating, destryoing, and spending time and supporting my wife
+- 👀 I enjoy three things in life: creating, destryoing, and spending time and supporting my wife
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on health and blockchain products
 - 📫 Reach me at www.vanswork.com
